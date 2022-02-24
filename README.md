@@ -1,6 +1,8 @@
 # 💫About Me :
 🚀 Working on multiple projects, and building opensource libraries
+
 🎨 Working with React, Next, Gatsby, React-native, Node
+
 🌱 Learning Typescript and Nest js
 
 # 💻Tech Stack
